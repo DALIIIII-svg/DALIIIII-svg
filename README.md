@@ -6,7 +6,7 @@ I build **LLM-powered systems**: multi-agent workflows, RAG assistants and local
 🎯 **Looking for a 6-month end-of-studies internship (PFE) in Applied AI** — LLMs, RAG, agentic AI — from **February 2027**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ali%20El%20Filali-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-elfilali-a66453371)
-[![Email](https://img.shields.io/badge/Email-medialifilali%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:medialifilali@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohamedali.elfilali%40supcom.tn-1F4E79?logo=maildotru&logoColor=white)](mailto:mohamedali.elfilali@supcom.tn)
 
 ---
 
